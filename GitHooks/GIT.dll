@@ -1,0 +1,7 @@
+public class RunHooks
+    {
+        public static void RunPreCommit()
+        {
+            Console.WriteLine("WriteLine HOOK!!!! HOOK!!!");
+        }
+    }
