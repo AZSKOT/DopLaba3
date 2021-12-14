@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ДопЛаба3
 {
@@ -8,8 +8,7 @@ namespace ДопЛаба3
         {
             Console.Write("Hello World!");
             Console.Write("Hello World!");
-            Console.Write("Hello World!");
-            
-        }
+            Console.Write("Hello World!");}        
+       
     }
 }
